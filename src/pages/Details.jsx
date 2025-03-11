@@ -76,7 +76,7 @@ function Details() {
                         <div className ="Faq">
                             <FontAwesomeIcon icon={faWrench} className="FaqIcon" />
                             Is this program approved?
-                            <p className = "FaqAnswer">BotBuilders has been approved by the Greater Essex District School Board. It is supervised by Ms. Beiko, a technology teacher at Vincent Massey Secondary School. </p>
+                            <p className = "FaqAnswer">BotBuilders has been approved by the Greater Essex District School Board. It is supervised by Ms. Beiko, a teacher at Massey Secondary School. </p>
                         </div>
                     </div>
                         
