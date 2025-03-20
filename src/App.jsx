@@ -14,6 +14,7 @@ import Homepage from './pages/HomePage';
 import About from './pages/About';
 import Details from './pages/Details';
 
+import BottomBar from "./components/BottomBar"
 import ParticlesComponent from "./components/particles";
 
 import BackgroundAnimation from './components/BackgroundAnimation';
@@ -100,7 +101,7 @@ function App() {
         <AnimatedRoutes />
       </div>
       
-      
+      <BottomBar ></BottomBar>
     </Router>
     </>
   )
