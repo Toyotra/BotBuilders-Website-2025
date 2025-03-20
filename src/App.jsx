@@ -1,9 +1,6 @@
 import { useState } from 'react'
 import './App.css'
 
-import { createRoot } from 'react-dom/client'
-import ReactDOM from "react-dom/client";
-
 
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence, motion } from 'framer-motion';
