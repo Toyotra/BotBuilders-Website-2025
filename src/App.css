@@ -30,6 +30,7 @@
     display:flex;
     align-items:center;
     
+    background-color:#05441d3a;
     margin:0px;
     z-index:30;
     padding-left:15px;  
@@ -148,13 +149,12 @@
 .homeTextSmall{
     width:80vw;
 }
-
 .homeText h1{
-    line-height:50px;
+    line-height: 50px;
     color:white;
 }
 .homeTextSmall h1{
-    line-height:3vh;
+    line-height:clamp(0.1vh, 40px, 50px);
     font-size:40px;
     color:white;
 }
