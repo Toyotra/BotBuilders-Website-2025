@@ -46,7 +46,7 @@ function HomePage() {
             
             </div>  
             <div id="smallSpacer"></div>
-            <img src = "public/images/BotBuilders.png" width="600px" className="homeImage"></img>
+            <img src = "images/BotBuilders Logo High Rez.png" width="600px" className="homeImage"></img>
         </div>
     )
     : (
@@ -66,7 +66,7 @@ function HomePage() {
                 <br></br>
                 
             </div>  
-            <img src = "public/images/BotBuilders.png" width="250px" className="homeImage2"></img>
+            <img src = "images/BotBuilders Logo High Rez.png" width="250px" className="homeImage2"></img>
         </div>
     )
   }
