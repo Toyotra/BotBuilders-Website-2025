@@ -43,6 +43,8 @@ function HomePage() {
                     <a href = "https://discord.gg/m9BJBJNZQ8"><button><FontAwesomeIcon icon={faDiscord} className ="spacedIcon"/>Discord </button></a>
                     <a href ="https://www.instagram.com/botbuilders.roboticsprogram/"><button><FontAwesomeIcon icon={faInstagram} className ="spacedIcon"/>Instagram </button></a>
                 </div>
+                <br></br>
+                <h2 >Last May, we taught over 25 students the fundamentals of robotics for free! To respect the privacy of our students, especially those under 18, we chose   not publicly share photos from the program.</h2>
             
             </div>  
             <div id="smallSpacer"></div>
@@ -64,6 +66,7 @@ function HomePage() {
                 </div>
                 <br></br>
                 <br></br>
+                <h2 >Last May, we taught over 25 students the fundamentals of robotics for free!</h2>
                 
             </div>  
             <img src = "images/BotBuilders-Logo-High-Rez.png" width="250px" className="homeImage2"></img>
