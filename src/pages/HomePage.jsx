@@ -36,7 +36,7 @@ function HomePage() {
                 <h1>BotBuilders is Windsor, Ontario's</h1>
                 <h1>premier non-profit robotics program for middle school students.</h1>
                 <br></br>
-                <h4><span className="highlight">Ran entirely by high school students</span>, BotBuilders aims to <span className="highlight">break social norms placed on young students.</span> We strive to ensure every student has <span className="highlight">equal oppoortunities</span> to be introduced into the robotics field, <span className
+                <h4><span className="highlight">Ran entirely by high school students</span>, BotBuilders aims to <span className="highlight">break social norms placed on young students.</span> We strive to ensure every student has <span className="highlight">equal opportunities</span> to be introduced into the robotics field, <span className
                 ="highlight">no matter their age, socioeconomic status, etc.</span></h4>
                 <div className="homeButtons">
                     <a href ="https://forms.gle/3i5yjHrrjg6YyeETA" ><button><FontAwesomeIcon icon={faRectangleList} className ="spacedIcon"/>Apply Now </button></a>
@@ -58,7 +58,7 @@ function HomePage() {
                 <h1 >BotBuilders is Windsor, Ontario's</h1>
                 <h1 >premier non-profit robotics program for middle school students.</h1>
                 <br></br>
-                <h4><span className="highlight">Ran entirely by high school students</span>, BotBuilders aims to <span className="highlight">break social norms placed on young students.</span> We strive to ensure every student has <span className="highlight">equal oppoortunities</span> to be introduced into the robotics field, <span className="highlight">no matter their age, socioeconomic status, etc.</span></h4>
+                <h4><span className="highlight">Ran entirely by high school students</span>, BotBuilders aims to <span className="highlight">break social norms placed on young students.</span> We strive to ensure every student has <span className="highlight">equal opportunities</span> to be introduced into the robotics field, <span className="highlight">no matter their age, socioeconomic status, etc.</span></h4>
                 <div className="homeButtons">
                     <a href ="https://forms.gle/3i5yjHrrjg6YyeETA" ><button><FontAwesomeIcon icon={faRectangleList} className ="spacedIcon"/>Apply Now </button></a>
                     <a href = "https://discord.gg/m9BJBJNZQ8"><button><FontAwesomeIcon icon={faDiscord} className ="spacedIcon"/>Discord </button></a>
